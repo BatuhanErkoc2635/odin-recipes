@@ -1,13 +1,14 @@
 *{
     color: white;
     background-color: crimson;
-    font-family: cursive;
+   
 }
 
 .headtext{
     text-align: center;
     font-size: 72px;
     background-color: crimson;
+    font-family: cursive;
     
 }
 #all-links-texts{
