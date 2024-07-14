@@ -1,0 +1,15 @@
+*{
+    color: white;
+    background-color: crimson;
+}
+.mainheadtext{
+    font-size: 72px;
+    text-align: center;
+}
+.imageone{
+   text-align: center;
+}
+.information{
+    text-align: center;
+    align-items: center;
+}
